@@ -5,7 +5,7 @@ test.ex
 src/GPATH
 src/GRTAGS
 src/GTAGS
-src/*
+#src/*
 !src/scanner.cc
 !src/unicode.h
 scripts/target
